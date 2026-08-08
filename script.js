@@ -5,8 +5,8 @@
 // =====================================
 
 // ---------- AUDIO ----------
-const introAudio = new Audio("assets/audio/intro.mp3");
-const laughAudio = new Audio("assets/audio/laugh.mp3");
+const introAudio = new Audio("intro.mp3");
+const laughAudio = new Audio("laugh.mp3");
 
 // ---------- LOADING ----------
 const loadingMessages = [
@@ -427,12 +427,12 @@ document.getElementById("diaryScreen").classList.add("active");
 
 const diaryPhotos = [
 
-"assets/diary/photo1.jpg",
-"assets/diary/photo2.jpg",
-"assets/diary/photo3.jpg",
-"assets/diary/photo4.jpg",
-"assets/diary/photo5.jpg",
-"assets/diary/photo6.jpg"
+"photo1.jpg",
+"photo2.jpg",
+"photo3.jpg",
+"photo4.jpg",
+"photo5.jpg",
+"photo6.jpg"
 
 ];
 
